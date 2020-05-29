@@ -43,7 +43,7 @@ class ViewController: UIViewController {
         
         //Implementar 3 funcionalidades al evento
         let action = UIAlertAction(title: "Aceptar", style: .default) {(action) in
-            print("He pulsado el botón Aceptar")
+            print("He pulsado el botón de Aceptar")
         }
         
         
